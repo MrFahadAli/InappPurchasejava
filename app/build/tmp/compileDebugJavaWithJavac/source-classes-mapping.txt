@@ -1,0 +1,10 @@
+com/mobizion/testinginapp/BuildConfig.java
+ com.mobizion.testinginapp.BuildConfig
+com/mobizion/testinginapp/MainActivity.java
+ com.mobizion.testinginapp.MainActivity
+ com.mobizion.testinginapp.MainActivity$1
+ com.mobizion.testinginapp.MainActivity$2
+ com.mobizion.testinginapp.MainActivity$3
+ com.mobizion.testinginapp.MainActivity$4
+ com.mobizion.testinginapp.MainActivity$4$1
+ com.mobizion.testinginapp.MainActivity$5

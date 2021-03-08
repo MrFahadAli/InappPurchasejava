@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mobizion.testinginapp"
+4    android:versionCode="3"
+5    android:versionName="3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="com.android.vending.BILLING" />
+12-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:5:5-67
+12-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:5:22-64
+13
+14    <application
+14-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:5-21:19
+15        android:allowBackup="true"
+15-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/c560b8721f05ca12656603dd382025ab/core-1.3.1/AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:12:9-35
+21        android:theme="@style/Theme.TestingInapp" >
+21-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:13:9-50
+22        <activity android:name="com.mobizion.testinginapp.MainActivity" >
+22-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:14:9-20:20
+22-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:14:19-47
+23            <intent-filter>
+23-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:16:17-69
+24-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:18:17-77
+26-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <meta-data
+30-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:13:9-15:37
+31            android:name="com.google.android.play.billingclient.version"
+31-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:14:13-73
+32            android:value="2.2.0" />
+32-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:15:13-34
+33
+34        <activity
+34-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:17:9-20:75
+35            android:name="com.android.billingclient.api.ProxyBillingActivity"
+35-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:18:13-78
+36            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+36-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:19:13-96
+37            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+37-->[com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/21951878308f21b6aa1a7967f64f10bd/jetified-billing-2.2.0/AndroidManifest.xml:20:13-72
+38    </application>
+39
+40</manifest>
