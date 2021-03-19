@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.material:material:1.2.1] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/22981d4cdf71825cb5a7a5ec96c4acd6/material-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/53122d3d043c629cc19e0d01d894fa3a/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/534b0b60cdeb6351839eea92c91ee473/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -58,20 +58,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fahadali/.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/ef0b98542222c1289ce16bfcc1afabc0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/baf59f0a1818dc58037c79079d263515/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/3fe742e6226238b0ee786a58ebf8f8fd/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:2:11-69
@@ -111,20 +111,32 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /U
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/914f242be64388f8e2f36740d876bed7/jetified-play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/d3d25ac4edcf793410bc25b2aac5bddc/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/d3d25ac4edcf793410bc25b2aac5bddc/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b5eb622fed69066d2b2135caba504259/jetified-play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b5eb622fed69066d2b2135caba504259/jetified-play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/914f242be64388f8e2f36740d876bed7/jetified-play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/914f242be64388f8e2f36740d876bed7/jetified-play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:22-65
 uses-permission#com.android.vending.BILLING
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:5-67
 MERGED from [com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/cf84dc19880bb913724ce17ae6f3da83/jetified-billing-2.2.0/AndroidManifest.xml:10:5-67
 MERGED from [com.android.billingclient:billing:2.2.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/cf84dc19880bb913724ce17ae6f3da83/jetified-billing-2.2.0/AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:22-64
 meta-data#firebase_crashlytics_collection_enabled
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:5-10:33
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:9:5-11:33
 	android:value
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:10:9-30
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:11:9-30
 	android:name
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:9:9-63
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:10:9-63
 application
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:12:5-26:19
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:13:5-27:19
 MERGED from [com.google.android.material:material:1.2.1] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/22981d4cdf71825cb5a7a5ec96c4acd6/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/22981d4cdf71825cb5a7a5ec96c4acd6/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/53122d3d043c629cc19e0d01d894fa3a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -170,31 +182,31 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/faha
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/98cc420b5f51babe6cde2779da21fa33/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:16:9-41
 	android:roundIcon
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:16:9-54
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:17:9-54
 	android:icon
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:18:9-50
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:19:9-50
 activity#com.mobizion.testinginapp.MainActivity
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:20:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml
@@ -367,16 +379,6 @@ ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] /Users
 		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/646538451f9b2a83ff33c89603ba907b/jetified-transport-backend-cct-2.3.2/AndroidManifest.xml:34:17-36
 	android:name
 		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.2] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/646538451f9b2a83ff33c89603ba907b/jetified-transport-backend-cct-2.3.2/AndroidManifest.xml:33:17-94
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/d3d25ac4edcf793410bc25b2aac5bddc/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/d3d25ac4edcf793410bc25b2aac5bddc/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b5eb622fed69066d2b2135caba504259/jetified-play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b5eb622fed69066d2b2135caba504259/jetified-play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/914f242be64388f8e2f36740d876bed7/jetified-play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/914f242be64388f8e2f36740d876bed7/jetified-play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:22-65
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
 ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
 	android:value

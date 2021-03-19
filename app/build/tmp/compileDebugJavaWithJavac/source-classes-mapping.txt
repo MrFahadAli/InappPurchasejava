@@ -5,6 +5,5 @@ com/mobizion/testinginapp/MainActivity.java
  com.mobizion.testinginapp.MainActivity$1
  com.mobizion.testinginapp.MainActivity$2
  com.mobizion.testinginapp.MainActivity$3
+ com.mobizion.testinginapp.MainActivity$3$1
  com.mobizion.testinginapp.MainActivity$4
- com.mobizion.testinginapp.MainActivity$4$1
- com.mobizion.testinginapp.MainActivity$5

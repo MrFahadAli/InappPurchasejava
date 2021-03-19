@@ -16,54 +16,54 @@
 12    <uses-permission android:name="android.permission.INTERNET" />
 12-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:6:5-66
 12-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:6:22-64
-13    <uses-permission android:name="com.android.vending.BILLING" />
-13-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:5-67
-13-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:22-64
-14
-15    <meta-data
-15-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:5-10:33
-16        android:name="firebase_crashlytics_collection_enabled"
-16-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:9:9-63
-17        android:value="false" />
-17-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:10:9-30
-18
-19    <uses-permission android:name="android.permission.WAKE_LOCK" />
-19-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
-19-->[com.google.android.gms:play-services-measurement-api:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/b51f023d5c701d94be9cc59069a4482a/jetified-play-services-measurement-api-18.0.0/AndroidManifest.xml:24:22-65
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:5-68
+13-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:7:22-65
+14    <uses-permission android:name="com.android.vending.BILLING" />
+14-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:5-67
+14-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:8:22-64
+15
+16    <meta-data
+16-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:9:5-11:33
+17        android:name="firebase_crashlytics_collection_enabled"
+17-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:10:9-63
+18        android:value="false" />
+18-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:11:9-30
+19
 20    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 20-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/d3d25ac4edcf793410bc25b2aac5bddc/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
 20-->[com.google.android.gms:play-services-measurement:18.0.0] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/d3d25ac4edcf793410bc25b2aac5bddc/jetified-play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
 21
 22    <application
-22-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:12:5-26:19
+22-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:13:5-27:19
 23        android:allowBackup="true"
-23-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:13:9-35
+23-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:14:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.3.1] /Users/fahadali/.gradle/caches/transforms-2/files-2.1/98cc420b5f51babe6cde2779da21fa33/core-1.3.1/AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
-26-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:14:9-43
+26-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:15:9-43
 27        android:label="@string/app_name"
-27-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:15:9-41
+27-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:16:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:16:9-54
+28-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:17:9-54
 29        android:supportsRtl="true"
-29-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:17:9-35
+29-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:18:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.TestingInapp" >
-31-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:18:9-50
+31-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:19:9-50
 32        <activity android:name="com.mobizion.testinginapp.MainActivity" >
-32-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:19:9-25:20
-32-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:19:19-47
+32-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:20:9-26:20
+32-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:20:19-47
 33            <intent-filter>
-33-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:20:13-24:29
+33-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:21:13-25:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:21:17-69
-34-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:21:25-66
+34-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:22:17-69
+34-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:22:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:23:17-77
-36-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:23:27-74
+36-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:24:17-77
+36-->/Users/fahadali/AndroidStudioProjects/TestingInapp/app/src/main/AndroidManifest.xml:24:27-74
 37            </intent-filter>
 38        </activity>
 39
